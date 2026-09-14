@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "From Sunrise to Our Genome — Can You Hear the Music? Chapter I: Extended Research Proposal"
+message: "If you use this research proposal, please cite it."
+type: software
+authors:
+  - family-names: Piran
+    given-names: Mohammad
+    name-suffix: "Piran AI"
+    affiliation: "Independent Interdisciplinary Researcher"
+date-released: 2026-09-14
+version: "0.1.0"
+license: "CC-BY-NC-ND-4.0"
+repository-code: "https://github.com/"
+keywords:
+  - music
+  - musicality
+  - acoustics
+  - soundscape
+  - genomics
+  - transcriptomics
+  - neuroplasticity
+  - music cognition
+  - human evolution
+  - wellbeing
